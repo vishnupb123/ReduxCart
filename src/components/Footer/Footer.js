@@ -89,7 +89,7 @@ const Footer = () => {
           {/* copy rights */}
           <div className="col-10 col-lg-4 mx-auto">
             <span className="site-footer__rights">
-              <span className="site-footer__rights--author">Ibrahim Kamal</span>{' '}
+              <span className="site-footer__rights--author">Designed and developed by Vishnu PB</span>{' '}
               &copy; {new Date().getFullYear()}. All Rights Reserved
             </span>
           </div>

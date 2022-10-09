@@ -26,9 +26,10 @@
     display: block;
     width: 50%;
   }
-
+  
   &__links {
     display: none;
+    
 
     @include atLgScreen {
       display: flex;
@@ -91,5 +92,8 @@
     @include atLgScreen {
       display: none;
     }
+  }
+  h1{
+    margin-right:100px;
   }
 }

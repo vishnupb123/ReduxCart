@@ -44,11 +44,7 @@ const Navbar = () => {
             <div className="site-header__logo-container">
               {/* navbar logo */}
               <Link to="/">
-                <img
-                  src={logo}
-                  alt="company logo"
-                  className="site-header__logo"
-                />
+                <h1>VISHNU'S .. E-chandha</h1>
               </Link>
             </div>
             {/* navbar links */}
